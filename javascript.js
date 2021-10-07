@@ -99,3 +99,4 @@ goFS.addEventListener("dblclick", function () {
 		cancelFullScreen.call(doc);
 	}
 }, false);
+window.addEventListener("dbclick",function(){console.log("ADDED BY SAHIL RAJ")});
