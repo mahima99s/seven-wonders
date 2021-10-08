@@ -99,3 +99,5 @@ goFS.addEventListener("dblclick", function () {
 		cancelFullScreen.call(doc);
 	}
 }, false);
+console.log("abhineet added this line")
+//This line is just for hacktober
