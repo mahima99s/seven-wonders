@@ -100,3 +100,5 @@ goFS.addEventListener("dblclick", function () {
 	}
 }, false);
 window.addEventListener("dbclick",function(){console.log("ADDED BY SAHIL RAJ")});
+console.log("abhineet added this line")
+//This line is just for hacktoberfest
